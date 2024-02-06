@@ -1,179 +1,851 @@
 {
-  "employees": [
-    {
-      "name": "김예진",
-      "employeeNumber": "E056",
-      "departmentName": "영업부",
-      "position": "사원",
-      "salary": 76000,
-      "hireDate": "2023-02-28"
-    },
-    {
-      "name": "이성준",
-      "employeeNumber": "E057",
-      "departmentName": "마케팅부",
+  "employees": [{
+      "name": "이성민",
+      "eno": "E856",
+      "department": "영업부",
       "position": "대리",
-      "salary": 89000,
-      "hireDate": "2022-07-15"
+      "salary": 57655,
+      "hireDate": "2022-11-26"
     },
     {
-      "name": "박지우",
-      "employeeNumber": "E058",
-      "departmentName": "개발팀",
+      "name": "송지우",
+      "eno": "E983",
+      "department": "영업팀",
+      "position": "부장",
+      "salary": 62128,
+      "hireDate": "2023-04-06"
+    },
+    {
+      "name": "김현우",
+      "eno": "E124",
+      "department": "영업부",
       "position": "사원",
-      "salary": 80000,
-      "hireDate": "2023-04-10"
+      "salary": 81581,
+      "hireDate": "2023-01-08"
     },
     {
       "name": "이민서",
-      "employeeNumber": "E059",
-      "departmentName": "마케팅부",
-      "position": "대리",
-      "salary": 87000,
-      "hireDate": "2022-11-15"
+      "eno": "E299",
+      "department": "영업팀",
+      "position": "과장",
+      "salary": 83264,
+      "hireDate": "2022-12-30"
     },
     {
-      "name": "김우진",
-      "employeeNumber": "E060",
-      "departmentName": "고객서비스팀",
-      "position": "주임",
+      "name": "최민서",
+      "eno": "E711",
+      "department": "고객서비스팀",
+      "position": "사원",
+      "salary": 67421,
+      "hireDate": "2023-05-12"
+    },
+    {
+      "name": "이준호",
+      "eno": "E347",
+      "department": "영업부",
+      "position": "부장",
+      "salary": 72537,
+      "hireDate": "2023-05-21"
+    },
+    {
+      "name": "박서연",
+      "eno": "E754",
+      "department": "개발팀",
+      "position": "과장",
+      "salary": 92586,
+      "hireDate": "2022-12-15"
+    },
+    {
+      "name": "윤지원",
+      "eno": "E261",
+      "department": "영업팀",
+      "position": "대리",
+      "salary": 76577,
+      "hireDate": "2023-01-27"
+    },
+    {
+      "name": "김지우",
+      "eno": "E827",
+      "department": "영업부",
+      "position": "대리",
+      "salary": 90574,
+      "hireDate": "2023-05-19"
+    },
+    {
+      "name": "김서현",
+      "eno": "E809",
+      "department": "영업부",
+      "position": "부장",
+      "salary": 81415,
+      "hireDate": "2023-04-04"
+    },
+    {
+      "name": "김수민",
+      "eno": "E234",
+      "department": "개발팀",
+      "position": "사원",
+      "salary": 60045,
+      "hireDate": "2023-03-20"
+    },
+    {
+      "name": "이정우",
+      "eno": "E853",
+      "department": "고객서비스팀",
+      "position": "과장",
+      "salary": 97258,
+      "hireDate": "2023-04-02"
+    },
+    {
+      "name": "박예은",
+      "eno": "E675",
+      "department": "영업팀",
+      "position": "대리",
+      "salary": 79739,
+      "hireDate": "2023-02-24"
+    },
+    {
+      "name": "최서연",
+      "eno": "E579",
+      "department": "영업부",
+      "position": "과장",
+      "salary": 72684,
+      "hireDate": "2023-02-21"
+    },
+    {
+      "name": "이서윤",
+      "eno": "E381",
+      "department": "영업팀",
+      "position": "대리",
+      "salary": 92115,
+      "hireDate": "2023-05-03"
+    },
+    {
+      "name": "김민준",
+      "eno": "E876",
+      "department": "영업팀",
+      "position": "사원",
+      "salary": 56432,
+      "hireDate": "2023-02-08"
+    },
+    {
+      "name": "박서준",
+      "eno": "E896",
+      "department": "영업부",
+      "position": "사원",
+      "salary": 86173,
+      "hireDate": "2023-04-25"
+    },
+    {
+
+
+      "name": "이민서",
+      "eno": "E243",
+      "department": "개발팀",
+      "position": "부장",
+      "salary": 78552,
+      "hireDate": "2023-02-27"
+    },
+    {
+      "name": "김하윤",
+      "eno": "E637",
+      "department": "기술지원팀",
+      "position": "대리",
+      "salary": 95367,
+      "hireDate": "2023-03-15"
+    },
+    {
+      "name": "정예은",
+      "eno": "E471",
+      "department": "영업팀",
+      "position": "사원",
+      "salary": 75896,
+      "hireDate": "2023-01-28"
+    },
+    {
+      "name": "김지우",
+      "eno": "E132",
+      "department": "영업부",
+      "position": "대리",
+      "salary": 66324,
+      "hireDate": "2023-02-02"
+    },
+    {
+      "name": "장서연",
+      "eno": "E779",
+      "department": "고객서비스팀",
+      "position": "대리",
+      "salary": 51132,
+      "hireDate": "2023-05-28"
+    },
+    {
+      "name": "윤시우",
+      "eno": "E518",
+      "department": "영업부",
+      "position": "과장",
+      "salary": 75063,
+      "hireDate": "2023-05-15"
+    },
+    {
+      "name": "장하윤",
+      "eno": "E167",
+      "department": "영업팀",
+      "position": "사원",
+      "salary": 98045,
+      "hireDate": "2023-02-15"
+    },
+    {
+      "name": "서서은",
+      "eno": "E794",
+      "department": "영업부",
+      "position": "대리",
+      "salary": 70245,
+      "hireDate": "2023-05-23"
+    },
+    {
+      "name": "김현준",
+      "eno": "E563",
+      "department": "영업팀",
+      "position": "사원",
+      "salary": 72000,
+      "hireDate": "2023-06-01"
+    },
+    {
+      "name": "이서연",
+      "eno": "E712",
+      "department": "개발팀",
+      "position": "대리",
+      "salary": 82000,
+      "hireDate": "2023-06-02"
+    },
+    {
+      "name": "박영서",
+      "eno": "E823",
+      "department": "영업부",
+      "position": "과장",
+      "salary": 90000,
+      "hireDate": "2023-06-03"
+    },
+    {
+      "name": "정지우",
+      "eno": "E934",
+      "department": "기술지원팀",
+      "position": "부장",
       "salary": 95000,
-      "hireDate": "2024-01-20"
+      "hireDate": "2023-06-04"
+    },
+    {
+      "name": "이민지",
+      "eno": "E245",
+      "department": "고객서비스팀",
+      "position": "대리",
+      "salary": 78000,
+      "hireDate": "2023-06-05"
+    },
+    {
+      "name": "김민서",
+      "eno": "E396",
+      "department": "영업팀",
+      "position": "사원",
+      "salary": 65000,
+      "hireDate": "2023-06-06"
+    },
+    {
+      "name": "장수민",
+      "eno": "E547",
+      "department": "영업부",
+      "position": "대리",
+      "salary": 75000,
+      "hireDate": "2023-06-07"
+    },
+    {
+      "name": "박하은",
+      "eno": "E608",
+      "department": "영업팀",
+      "position": "부장",
+      "salary": 92000,
+      "hireDate": "2023-06-08"
+    },
+    {
+      "name": "김시우",
+      "eno": "E739",
+      "department": "영업부",
+      "position": "과장",
+      "salary": 85000,
+      "hireDate": "2023-06-09"
     },
     {
       "name": "최예은",
-      "employeeNumber": "E061",
-      "departmentName": "기술지원팀",
-      "position": "사원",
-      "salary": 73000,
-      "hireDate": "2023-08-05"
+      "eno": "E820",
+
+
+      "department": "영업팀",
+      "position": "대리",
+      "salary": 80000,
+      "hireDate": "2023-06-10"
     },
     {
-      "name": "정우성",
-      "employeeNumber": "E062",
-      "departmentName": "마케팅부",
+      "name": "이서아",
+      "eno": "E961",
+      "department": "영업부",
       "position": "사원",
+      "salary": 70000,
+      "hireDate": "2023-06-11"
+    },
+    {
+      "name": "유하은",
+      "eno": "E122",
+      "department": "개발팀",
+      "position": "과장",
+      "salary": 88000,
+      "hireDate": "2023-06-12"
+    },
+    {
+      "name": "김지민",
+      "eno": "E203",
+      "department": "고객서비스팀",
+      "position": "사원",
+      "salary": 68000,
+      "hireDate": "2023-06-13"
+    },
+    {
+      "name": "이지우",
+      "eno": "E324",
+      "department": "영업부",
+      "position": "대리",
+      "salary": 76000,
+      "hireDate": "2023-06-14"
+    },
+    {
+      "name": "박지민",
+      "eno": "E425",
+      "department": "영업팀",
+      "position": "사원",
+      "salary": 67000,
+      "hireDate": "2023-06-15"
+    },
+    {
+      "name": "김예은",
+      "eno": "E526",
+      "department": "영업부",
+      "position": "과장",
+      "salary": 87000,
+      "hireDate": "2023-06-16"
+    },
+    {
+      "name": "최하은",
+      "eno": "E647",
+      "department": "개발팀",
+      "position": "대리",
+      "salary": 83000,
+      "hireDate": "2023-06-17"
+    },
+    {
+      "name": "이예은",
+      "eno": "E748",
+      "department": "영업팀",
+      "position": "부장",
+      "salary": 93000,
+      "hireDate": "2023-06-18"
+    },
+    {
+      "name": "장서연",
+      "eno": "E859",
+      "department": "영업부",
+      "position": "대리",
+      "salary": 77000,
+      "hireDate": "2023-06-19"
+    },
+    {
+      "name": "서지우",
+      "eno": "E950",
+      "department": "기술지원팀",
+      "position": "사원",
+      "salary": 69000,
+      "hireDate": "2023-06-20"
+    },
+    {
+      "name": "이서준",
+      "eno": "E769",
+      "department": "영업팀",
+      "position": "대리",
       "salary": 72000,
-      "hireDate": "2022-03-10"
+      "hireDate": "2015-03-18"
     },
     {
-      "name": "이다솜",
-      "employeeNumber": "E063",
-      "departmentName": "영업부",
-      "position": "주임",
+      "name": "김하윤",
+      "eno": "E610",
+      "department": "개발팀",
+      "position": "사원",
+      "salary": 82000,
+      "hireDate": "2016-07-09"
+    },
+    {
+      "name": "박준우",
+      "eno": "E521",
+      "department": "영업부",
+      "position": "과장",
+      "salary": 90000,
+      "hireDate": "2017-10-25"
+    },
+    {
+      "name": "이수민",
+      "eno": "E432",
+      "department": "기술지원팀",
+      "position": "부장",
+      "salary": 95000,
+      "hireDate": "2018-12-31"
+    },
+    {
+      "name": "최서연",
+      "eno": "E543",
+      "department": "고객서비스팀",
+      "position": "대리",
+      "salary": 78000,
+      "hireDate": "2019-05-14"
+    },
+    {
+      "name": "김민서",
+      "eno": "E254",
+      "department": "영업팀",
+      "position": "사원",
+      "salary": 65000,
+      "hireDate": "2020-08-27"
+    },
+    {
+      "name": "이현우",
+      "eno": "E865",
+      "department": "영업부",
+      "position": "대리",
+      "salary": 75000,
+      "hireDate": "2021-11-10"
+    },
+    {
+      "name": "박예린",
+      "eno": "E476",
+      "department": "영업팀",
+      "position": "부장",
       "salary": 92000,
-      "hireDate": "2021-12-08"
+      "hireDate": "2015-02-22"
+    },
+    {
+      "name": "김하은",
+      "eno": "E797",
+      "department": "영업부",
+      "position": "과장",
+      "salary": 85000,
+      "hireDate": "2016-04-06"
+    },
+    {
+      "name": "이재윤",
+      "eno": "E308",
+      "department": "영업팀",
+      "position": "대리",
+      "salary": 80000,
+      "hireDate": "2017-06-19"
+    },
+    {
+      "name": "최서진",
+      "eno": "E919",
+      "department": "영업부",
+      "position": "사원",
+      "salary": 70000,
+      "hireDate": "2018-09-02"
+    },
+    {
+      "name": "장지윤",
+      "eno": "E120",
+      "department": "개발팀",
+      "position": "과장",
+      "salary": 88000,
+      "hireDate": "2019-11-15"
+    },
+    {
+      "name": "박시우",
+      "eno": "E921",
+      "department": "고객서비스팀",
+      "position": "사원",
+      "salary": 68000,
+      "hireDate": "2020-01-28"
+    },
+    {
+      "name": "김서진",
+      "eno": "E842",
+      "department": "영업부",
+      "position": "대리",
+      "salary ": 76000,
+      "hireDate": "2021-03-03"
+    },
+    {
+      "name": "이지민",
+      "eno": "E753",
+      "department": "영업팀",
+      "position": "부장",
+      "salary": 93000,
+      "hireDate": "2015-06-25"
+    },
+    {
+      "name": "최서윤",
+      "eno": "E864",
+      "department": "영업부",
+      "position": "대리",
+      "salary": 77000,
+      "hireDate": "2016-08-18"
+    },
+    {
+      "name": "장시우",
+      "eno": "E327",
+      "department": "기술지원팀",
+      "position": "과장",
+      "salary": 89000,
+      "hireDate": "2017-01-21"
+    },
+    {
+      "name": "이주원",
+      "eno": "E896",
+      "department": "영업팀",
+      "position": "사원",
+      "salary": 67000,
+      "hireDate": "2018-04-14"
+    },
+    {
+      "name": "박예진",
+      "eno": "E449",
+      "department": "고객서비스팀",
+      "position": "대리",
+      "salary": 79000,
+      "hireDate": "2019-09-29"
     },
     {
       "name": "김서아",
-      "employeeNumber": "E064",
-      "departmentName": "기술지원팀",
-      "position": "대리",
-      "salary": 89000,
-      "hireDate": "2022-09-25"
+      "eno": "E260",
+      "department": "영업부",
+      "position": "사원",
+      "salary": 71000,
+      "hireDate": "2020-11-08"
     },
     {
-      "name": "박준영",
-      "employeeNumber": "E065",
-      "departmentName": "고객서비스팀",
+      "name": "이시우",
+      "eno": "E673",
+      "department": "개발팀",
+      "position": "과장",
+      "salary": 86000,
+      "hireDate": "2021-01-30"
+    },
+    {
+      "name": "최민서",
+      "eno": "E184",
+      "department": "영업팀",
+      "position": "대리",
+      "salary": 81000,
+      "hireDate": "2015-07-20"
+    },
+    {
+      "name": "장준서",
+      "eno": "E735",
+      "department": "영업부",
+      "position": "과장",
+      "salary": 88000,
+      "hireDate": "2016-10-10"
+    },
+    {
+      "name": "김재윤",
+      "eno": "E846",
+      "department": "영업팀",
+      "position": "대리",
+      "salary": 82000,
+      "hireDate": "2018-01-05"
+    },
+    {
+      "name": "이지윤",
+      "eno": "E157",
+      "department": "고객서비스팀",
       "position": "사원",
-      "salary": 74000,
-      "hireDate": "2023-06-20"
+      "salary": 69000,
+      "hireDate": "2019-03-14"
+    },
+    {
+      "name": "박지윤",
+      "eno": "E968",
+      "department": "영업부",
+      "position": "대리",
+      "salary": 73000,
+      "hireDate": "2020-05-29"
+    },
+    {
+      "name": "김서우",
+      "eno": "E523",
+      "department": "기술지원팀",
+      "position": "부장",
+      "salary": 96000,
+      "hireDate": "2021-07-26"
     }
   ],
-  "empTime": [
+  "attendancetime": [{
+      "name": "이성민",
+      "eno": "E856",
+      "date": "2024-02-03",
+      "startTime": "08:30",
+      "endTime": "15:45",
+      "remote": false,
+      "annualLeave": false
+    },
     {
-      "name": "박준서",
-      "employeeNumber": "E041",
-      "date": "2024-02-04",
-      "startTime": "08:15",
-      "endTime": "18:45",
+      "name": "송지우",
+      "eno": "E983",
+      "date": "2024-02-03",
+      "startTime": "10:00",
+      "endTime": "18:30",
+      "remote": true,
+      "annualLeave": true
+    },
+    {
+      "name": "김현우",
+      "eno": "E124",
+      "date": "2024-02-03",
+      "startTime": "07:45",
+      "endTime": "16:15",
+      "remote": false,
+      "annualLeave": true
+    },
+    {
+      "name": "이민서",
+      "eno": "E299",
+      "date": "2024-02-03",
+      "startTime": "07:00",
+      "endTime": "11:30",
       "remote": true,
       "annualLeave": false
     },
     {
-      "name": "임하은",
-      "employeeNumber": "E042",
-      "date": "2024-02-04",
-      "startTime": "09:00",
+      "name": "최민서",
+      "eno": "E711",
+      "date": "2024-02-03",
+      "startTime": "09:15",
+      "endTime": "17:45",
+      "remote": false,
+      "annualLeave": false
+    },
+    {
+      "name": "이준호",
+      "eno": "E347",
+      "date": "2024-02-03",
+      "startTime": "11:00",
+      "endTime": "20:00",
+      "remote": true,
+      "annualLeave": true
+    },
+    {
+      "name": "박서연",
+      "eno": "E754",
+      "date": "2024-02-03",
+      "startTime": "07:30",
+      "endTime": "12:45",
+      "remote": false,
+      "annualLeave": true
+    },
+    {
+      "name": "윤지원",
+      "eno": "E261",
+      "date": "2024-02-03",
+      "startTime": "08:00",
+      "endTime": "17:00",
+      "remote": true,
+      "annualLeave": false
+    },
+    {
+      "name": "김지우",
+      "eno": "E827",
+      "date": "2024-02-03",
+      "startTime": "07:30",
+      "endTime": "14:00",
+      "remote": false,
+      "annualLeave": false
+    },
+    {
+      "name": "김서현",
+      "eno": "E809",
+      "date": "2024-02-03",
+      "startTime": "08:15",
+      "endTime": "16:45",
+      "remote": true,
+      "annualLeave": true
+    },
+    {
+      "name": "김수민",
+      "eno": "E234",
+      "date": "2024-02-03",
+      "startTime": "09:30",
       "endTime": "18:00",
       "remote": false,
-      "annualLeave": true
-    },
-    {
-      "name": "서영준",
-      "employeeNumber": "E043",
-      "date": "2024-02-04",
-      "startTime": "08:45",
-      "endTime": "18:15",
-      "remote": true,
       "annualLeave": false
     },
     {
-      "name": "김서연",
-      "employeeNumber": "E044",
-      "date": "2024-02-04",
-      "startTime": "09:30",
-      "endTime": "19:00",
-      "remote": false,
-      "annualLeave": false
-    },
-    {
-      "name": "이태우",
-      "employeeNumber": "E045",
-      "date": "2024-02-04",
-      "startTime": "08:15",
-      "endTime": "18:45",
+      "name": "이정우",
+      "eno": "E853",
+      "date": "2024-02-03",
+      "startTime": "07:45",
+      "endTime": "16:15",
       "remote": true,
       "annualLeave": true
     },
     {
-      "name": "한지원",
-      "employeeNumber": "E046",
-      "date": "2024-02-04",
-      "startTime": "09:30",
-      "endTime": "19:30",
+      "name": "박예은",
+      "eno": "E675",
+      "date": "2024-02-03",
+      "startTime": "10:00",
+      "endTime": "17:30",
       "remote": false,
-      "annualLeave": true
+      "annualLeave": false
     },
     {
-      "name": "손승현",
-      "employeeNumber": "E047",
-      "date": "2024-02-04",
+      "name": "최서연",
+      "eno": "E579",
+      "date": "2024-02-03",
       "startTime": "08:30",
-      "endTime": "18:30",
-      "remote": true,
-      "annualLeave": false
-    },
-    {
-      "name": "김다빈",
-      "employeeNumber": "E048",
-      "date": "2024-02-04",
-      "startTime": "09:00",
-      "endTime": "19:00",
-      "remote": false,
-      "annualLeave": false
-    },
-    {
-      "name": "정서희",
-      "employeeNumber": "E049",
-      "date": "2024-02-04",
-      "startTime": "08:45",
-      "endTime": "18:45",
+      "endTime": "15:45",
       "remote": true,
       "annualLeave": true
     },
     {
-      "name": "박진아",
-      "employeeNumber": "E050",
-      "date": "2024-02-04",
-      "startTime": "09:15",
-      "endTime": "18:30",
+      "name": "이서윤",
+      "eno": "E381",
+      "date": "2024-02-03",
+      "startTime": "07:00",
+      "endTime": "11:30",
+      "remote": false,
+      "annualLeave": false
+    },
+    {
+      "name": "김민준",
+      "eno": "E876",
+      "date": "2024-02-03",
+      "startTime": "11:00",
+      "endTime": "20:00",
+      "remote": true,
+      "annualLeave": true
+    },
+    {
+      "name": "박서준",
+      "eno": "E896",
+      "date": "2024-02-03",
+      "startTime": "07:30",
+      "endTime": "12:45",
+      "remote": false,
+      "annualLeave": true
+    },
+    {
+      "name": "이민서",
+      "eno": "E243",
+      "date": "2024-02-03",
+      "startTime": "08:00",
+      "endTime": "17:00",
+      "remote": true,
+      "annualLeave": false
+    },
+    {
+      "name": "김하윤",
+      "eno": "E637",
+      "date": "2024-02-03",
+      "startTime": "07:30",
+      "endTime": "14:00",
+      "remote": false,
+      "annualLeave": false
+    },
+    {
+      "name": "정예은",
+      "eno": "E471",
+      "date": "2024-02-03",
+      "startTime": "08:15",
+      "endTime": "16:45",
+      "remote": true,
+      "annualLeave": true
+    },
+    {
+      "name": "김지우",
+      "eno": "E132",
+      "date": "2024-02-03",
+      "startTime": "09:30",
+      "endTime": "18:00",
+      "remote": false,
+      "annualLeave": false
+    },
+    {
+      "name": "장서연",
+      "eno": "E779",
+      "date": "2024-02-03",
+      "startTime": "07:45",
+      "endTime": "16:15",
+      "remote": true,
+      "annualLeave": true
+    },
+    {
+      "name": "윤시우",
+      "eno": "E518",
+      "date": "2024-02-03",
+      "startTime": "10:00",
+      "endTime": "17:30",
+      "remote": false,
+      "annualLeave": false
+    },
+    {
+      "name": "장하윤",
+      "eno": "E167",
+      "date": "2024-02-03",
+      "startTime": "08:30",
+      "endTime": "15:45",
+      "remote": true,
+      "annualLeave": true
+    },
+    {
+      "name": "서서은",
+      "eno": "E794",
+      "date": "2024-02-03",
+      "startTime": "07:00",
+      "endTime": "11:30",
+      "remote": false,
+      "annualLeave": false
+    },
+    {
+      "name": "김현준",
+      "eno": "E563",
+      "date": "2024-02-03",
+      "startTime": "11:00",
+      "endTime": "20:00",
+      "remote": true,
+      "annualLeave": true
+    },
+    {
+      "name": "이서연",
+      "eno": "E712",
+      "date": "2024-02-03",
+      "startTime": "07:30",
+      "endTime": "12:45",
+      "remote": false,
+      "annualLeave": true
+    },
+    {
+      "name": "박영서",
+      "eno": "E823",
+      "date": "2024-02-03",
+      "startTime": "08:00",
+      "endTime": "17:00",
+      "remote": true,
+      "annualLeave": false
+    },
+    {
+      "name": "정지우",
+      "eno": "E934",
+      "date": "2024-02-03",
+      "startTime": "07:30",
+      "endTime": "14:00",
       "remote": false,
       "annualLeave": false
     }
   ],
-  "departmentalSales": [
+  "departmentalSales": [{
+      "departmentName": "고객서비스팀",
+      "departmentPerformance": 843000
+    },
     {
       "departmentName": "고객서비스팀",
       "departmentPerformance": 843000
@@ -196,3 +868,4 @@
     }
   ]
 }
+
