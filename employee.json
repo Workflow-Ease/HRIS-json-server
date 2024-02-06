@@ -1,0 +1,198 @@
+{
+  "employees": [
+    {
+      "name": "김예진",
+      "employeeNumber": "E056",
+      "departmentName": "영업부",
+      "position": "사원",
+      "salary": 76000,
+      "hireDate": "2023-02-28"
+    },
+    {
+      "name": "이성준",
+      "employeeNumber": "E057",
+      "departmentName": "마케팅부",
+      "position": "대리",
+      "salary": 89000,
+      "hireDate": "2022-07-15"
+    },
+    {
+      "name": "박지우",
+      "employeeNumber": "E058",
+      "departmentName": "개발팀",
+      "position": "사원",
+      "salary": 80000,
+      "hireDate": "2023-04-10"
+    },
+    {
+      "name": "이민서",
+      "employeeNumber": "E059",
+      "departmentName": "마케팅부",
+      "position": "대리",
+      "salary": 87000,
+      "hireDate": "2022-11-15"
+    },
+    {
+      "name": "김우진",
+      "employeeNumber": "E060",
+      "departmentName": "고객서비스팀",
+      "position": "주임",
+      "salary": 95000,
+      "hireDate": "2024-01-20"
+    },
+    {
+      "name": "최예은",
+      "employeeNumber": "E061",
+      "departmentName": "기술지원팀",
+      "position": "사원",
+      "salary": 73000,
+      "hireDate": "2023-08-05"
+    },
+    {
+      "name": "정우성",
+      "employeeNumber": "E062",
+      "departmentName": "마케팅부",
+      "position": "사원",
+      "salary": 72000,
+      "hireDate": "2022-03-10"
+    },
+    {
+      "name": "이다솜",
+      "employeeNumber": "E063",
+      "departmentName": "영업부",
+      "position": "주임",
+      "salary": 92000,
+      "hireDate": "2021-12-08"
+    },
+    {
+      "name": "김서아",
+      "employeeNumber": "E064",
+      "departmentName": "기술지원팀",
+      "position": "대리",
+      "salary": 89000,
+      "hireDate": "2022-09-25"
+    },
+    {
+      "name": "박준영",
+      "employeeNumber": "E065",
+      "departmentName": "고객서비스팀",
+      "position": "사원",
+      "salary": 74000,
+      "hireDate": "2023-06-20"
+    }
+  ],
+  "empTime": [
+    {
+      "name": "박준서",
+      "employeeNumber": "E041",
+      "date": "2024-02-04",
+      "startTime": "08:15",
+      "endTime": "18:45",
+      "remote": true,
+      "annualLeave": false
+    },
+    {
+      "name": "임하은",
+      "employeeNumber": "E042",
+      "date": "2024-02-04",
+      "startTime": "09:00",
+      "endTime": "18:00",
+      "remote": false,
+      "annualLeave": true
+    },
+    {
+      "name": "서영준",
+      "employeeNumber": "E043",
+      "date": "2024-02-04",
+      "startTime": "08:45",
+      "endTime": "18:15",
+      "remote": true,
+      "annualLeave": false
+    },
+    {
+      "name": "김서연",
+      "employeeNumber": "E044",
+      "date": "2024-02-04",
+      "startTime": "09:30",
+      "endTime": "19:00",
+      "remote": false,
+      "annualLeave": false
+    },
+    {
+      "name": "이태우",
+      "employeeNumber": "E045",
+      "date": "2024-02-04",
+      "startTime": "08:15",
+      "endTime": "18:45",
+      "remote": true,
+      "annualLeave": true
+    },
+    {
+      "name": "한지원",
+      "employeeNumber": "E046",
+      "date": "2024-02-04",
+      "startTime": "09:30",
+      "endTime": "19:30",
+      "remote": false,
+      "annualLeave": true
+    },
+    {
+      "name": "손승현",
+      "employeeNumber": "E047",
+      "date": "2024-02-04",
+      "startTime": "08:30",
+      "endTime": "18:30",
+      "remote": true,
+      "annualLeave": false
+    },
+    {
+      "name": "김다빈",
+      "employeeNumber": "E048",
+      "date": "2024-02-04",
+      "startTime": "09:00",
+      "endTime": "19:00",
+      "remote": false,
+      "annualLeave": false
+    },
+    {
+      "name": "정서희",
+      "employeeNumber": "E049",
+      "date": "2024-02-04",
+      "startTime": "08:45",
+      "endTime": "18:45",
+      "remote": true,
+      "annualLeave": true
+    },
+    {
+      "name": "박진아",
+      "employeeNumber": "E050",
+      "date": "2024-02-04",
+      "startTime": "09:15",
+      "endTime": "18:30",
+      "remote": false,
+      "annualLeave": false
+    }
+  ],
+  "departmentalSales": [
+    {
+      "departmentName": "고객서비스팀",
+      "departmentPerformance": 843000
+    },
+    {
+      "departmentName": "영업부",
+      "departmentPerformance": 267000
+    },
+    {
+      "departmentName": "마케팅부",
+      "departmentPerformance": 512000
+    },
+    {
+      "departmentName": "개발팀",
+      "departmentPerformance": 723000
+    },
+    {
+      "departmentName": "기술지원팀",
+      "departmentPerformance": 395000
+    }
+  ]
+}
