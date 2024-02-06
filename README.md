@@ -33,6 +33,11 @@ http://localhost:3000/departmentalSales
 ### Fly.io URL
 - https://hris-json-server.fly.dev/
 
+### data
+-사원 : employees
+- 출퇴근시간 및 연차여부 : attendancetime
+- 부서별 매출액 : departmentalSales
+
 ### 화면
 ![image](https://github.com/Workflow-Ease/HRIS-json-server/assets/54056684/111c60d8-397d-415c-8967-bad7755ee353)
 
