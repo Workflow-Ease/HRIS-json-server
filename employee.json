@@ -580,10 +580,11 @@
       "hireDate": "2021-07-26"
     }
   ],
-  "attendancetime": [{
+  "attendancetime": [
+    {
       "name": "이성민",
       "eno": "E856",
-      "date": "2024-02-03",
+      "date": "2024-02-08",
       "startTime": "08:30",
       "endTime": "15:45",
       "remote": false,
@@ -592,7 +593,7 @@
     {
       "name": "송지우",
       "eno": "E983",
-      "date": "2024-02-03",
+      "date": "2024-02-08",
       "startTime": "10:00",
       "endTime": "18:30",
       "remote": true,
@@ -601,7 +602,7 @@
     {
       "name": "김현우",
       "eno": "E124",
-      "date": "2024-02-03",
+      "date": "2024-02-08",
       "startTime": "07:45",
       "endTime": "16:15",
       "remote": false,
@@ -610,7 +611,7 @@
     {
       "name": "이민서",
       "eno": "E299",
-      "date": "2024-02-03",
+      "date": "2024-02-08",
       "startTime": "07:00",
       "endTime": "11:30",
       "remote": true,
@@ -619,7 +620,7 @@
     {
       "name": "최민서",
       "eno": "E711",
-      "date": "2024-02-03",
+      "date": "2024-02-08",
       "startTime": "09:15",
       "endTime": "17:45",
       "remote": false,
@@ -628,7 +629,7 @@
     {
       "name": "이준호",
       "eno": "E347",
-      "date": "2024-02-03",
+      "date": "2024-02-08",
       "startTime": "11:00",
       "endTime": "20:00",
       "remote": true,
@@ -637,7 +638,7 @@
     {
       "name": "박서연",
       "eno": "E754",
-      "date": "2024-02-03",
+      "date": "2024-02-06",
       "startTime": "07:30",
       "endTime": "12:45",
       "remote": false,
@@ -646,7 +647,7 @@
     {
       "name": "윤지원",
       "eno": "E261",
-      "date": "2024-02-03",
+      "date": "2024-02-06",
       "startTime": "08:00",
       "endTime": "17:00",
       "remote": true,
@@ -655,7 +656,7 @@
     {
       "name": "김지우",
       "eno": "E827",
-      "date": "2024-02-03",
+      "date": "2024-02-06",
       "startTime": "07:30",
       "endTime": "14:00",
       "remote": false,
@@ -664,7 +665,7 @@
     {
       "name": "김서현",
       "eno": "E809",
-      "date": "2024-02-03",
+      "date": "2024-02-07",
       "startTime": "08:15",
       "endTime": "16:45",
       "remote": true,
@@ -673,7 +674,7 @@
     {
       "name": "김수민",
       "eno": "E234",
-      "date": "2024-02-03",
+      "date": "2024-02-07",
       "startTime": "09:30",
       "endTime": "18:00",
       "remote": false,
@@ -682,7 +683,7 @@
     {
       "name": "이정우",
       "eno": "E853",
-      "date": "2024-02-03",
+      "date": "2024-02-07",
       "startTime": "07:45",
       "endTime": "16:15",
       "remote": true,
@@ -691,7 +692,7 @@
     {
       "name": "박예은",
       "eno": "E675",
-      "date": "2024-02-03",
+      "date": "2024-02-07",
       "startTime": "10:00",
       "endTime": "17:30",
       "remote": false,
@@ -700,7 +701,7 @@
     {
       "name": "최서연",
       "eno": "E579",
-      "date": "2024-02-03",
+      "date": "2024-02-08",
       "startTime": "08:30",
       "endTime": "15:45",
       "remote": true,
@@ -709,7 +710,7 @@
     {
       "name": "이서윤",
       "eno": "E381",
-      "date": "2024-02-03",
+      "date": "2024-02-08",
       "startTime": "07:00",
       "endTime": "11:30",
       "remote": false,
@@ -718,7 +719,7 @@
     {
       "name": "김민준",
       "eno": "E876",
-      "date": "2024-02-03",
+      "date": "2024-02-08",
       "startTime": "11:00",
       "endTime": "20:00",
       "remote": true,
@@ -727,7 +728,7 @@
     {
       "name": "박서준",
       "eno": "E896",
-      "date": "2024-02-03",
+      "date": "2024-02-08",
       "startTime": "07:30",
       "endTime": "12:45",
       "remote": false,
@@ -736,7 +737,7 @@
     {
       "name": "이민서",
       "eno": "E243",
-      "date": "2024-02-03",
+      "date": "2024-02-08",
       "startTime": "08:00",
       "endTime": "17:00",
       "remote": true,
@@ -745,7 +746,7 @@
     {
       "name": "김하윤",
       "eno": "E637",
-      "date": "2024-02-03",
+      "date": "2024-02-08",
       "startTime": "07:30",
       "endTime": "14:00",
       "remote": false,
@@ -754,7 +755,7 @@
     {
       "name": "정예은",
       "eno": "E471",
-      "date": "2024-02-03",
+      "date": "2024-02-08",
       "startTime": "08:15",
       "endTime": "16:45",
       "remote": true,
@@ -763,7 +764,7 @@
     {
       "name": "김지우",
       "eno": "E132",
-      "date": "2024-02-03",
+      "date": "2024-02-08",
       "startTime": "09:30",
       "endTime": "18:00",
       "remote": false,
@@ -772,7 +773,7 @@
     {
       "name": "장서연",
       "eno": "E779",
-      "date": "2024-02-03",
+      "date": "2024-02-08",
       "startTime": "07:45",
       "endTime": "16:15",
       "remote": true,
@@ -781,7 +782,7 @@
     {
       "name": "윤시우",
       "eno": "E518",
-      "date": "2024-02-03",
+      "date": "2024-02-08",
       "startTime": "10:00",
       "endTime": "17:30",
       "remote": false,
@@ -790,7 +791,7 @@
     {
       "name": "장하윤",
       "eno": "E167",
-      "date": "2024-02-03",
+      "date": "2024-02-08",
       "startTime": "08:30",
       "endTime": "15:45",
       "remote": true,
@@ -799,7 +800,7 @@
     {
       "name": "서서은",
       "eno": "E794",
-      "date": "2024-02-03",
+      "date": "2024-02-08",
       "startTime": "07:00",
       "endTime": "11:30",
       "remote": false,
@@ -808,7 +809,7 @@
     {
       "name": "김현준",
       "eno": "E563",
-      "date": "2024-02-03",
+      "date": "2024-02-08",
       "startTime": "11:00",
       "endTime": "20:00",
       "remote": true,
@@ -817,7 +818,7 @@
     {
       "name": "이서연",
       "eno": "E712",
-      "date": "2024-02-03",
+      "date": "2024-02-08",
       "startTime": "07:30",
       "endTime": "12:45",
       "remote": false,
@@ -826,7 +827,7 @@
     {
       "name": "박영서",
       "eno": "E823",
-      "date": "2024-02-03",
+      "date": "2024-02-08",
       "startTime": "08:00",
       "endTime": "17:00",
       "remote": true,
@@ -835,7 +836,7 @@
     {
       "name": "정지우",
       "eno": "E934",
-      "date": "2024-02-03",
+      "date": "2024-02-08",
       "startTime": "07:30",
       "endTime": "14:00",
       "remote": false,
