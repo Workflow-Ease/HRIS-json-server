@@ -276,8 +276,6 @@
     {
       "name": "최예은",
       "eno": "E820",
-
-
       "department": "영업팀",
       "position": "대리",
       "salary": 80000,
@@ -844,9 +842,6 @@
     }
   ],
   "departmentalSales": [{
-      "departmentName": "고객서비스팀",
-      "departmentPerformance": 843000
-    },
     {
       "departmentName": "고객서비스팀",
       "departmentPerformance": 843000
